@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render App correctly 1`] = `
+<div
+  className="main ui container"
+>
+  <Weather
+    onsubmit={[Function]}
+  />
+  <h2>
+    City: 
+  </h2>
+  <h3>
+    Air Smog: 
+  </h3>
+  <h3>
+    Cigarette pollution: 
+  </h3>
+</div>
+`;
